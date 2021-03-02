@@ -1,2 +1,2 @@
-const treats = 'kibble';
+const treats = 'kibble -> cheese';
 console.log(treats);
