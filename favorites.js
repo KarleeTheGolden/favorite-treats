@@ -1,2 +1,2 @@
-const favorites = 'catnip';
+const favorites = 'Biscuit';
 console.log(favorites);
